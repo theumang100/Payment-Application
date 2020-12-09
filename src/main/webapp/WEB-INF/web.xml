@@ -1,0 +1,67 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>Insertuserdata</servlet-name>
+  	<display-name>Insertuserdata</display-name>
+  	<description></description>
+  	<servlet-class>com.servlets.Insertuserdata</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>InsertUserdata</servlet-name>
+  	<display-name>InsertUserdata</display-name>
+  	<description></description>
+  	<servlet-class>com.servlets.InsertUserdata</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Usercredentialvalidate</servlet-name>
+  	<display-name>Usercredentialvalidate</display-name>
+  	<description></description>
+  	<servlet-class>com.servlets.Usercredentialvalidate</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Userlogout</servlet-name>
+  	<display-name>Userlogout</display-name>
+  	<description></description>
+  	<servlet-class>com.servlets.Userlogout</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Debitcardaddmoney</servlet-name>
+  	<display-name>Debitcardaddmoney</display-name>
+  	<description></description>
+  	<servlet-class>com.servlets.Debitcardaddmoney</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Sendmoneytouser</servlet-name>
+  	<display-name>Sendmoneytouser</display-name>
+  	<description></description>
+  	<servlet-class>com.servlets.Sendmoneytouser</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Insertuserdata</servlet-name>
+  	<url-pattern>/Insertuserdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>InsertUserdata</servlet-name>
+  	<url-pattern>/InsertUserdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Usercredentialvalidate</servlet-name>
+  	<url-pattern>/Usercredentialvalidate</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Userlogout</servlet-name>
+  	<url-pattern>/Userlogout</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Debitcardaddmoney</servlet-name>
+  	<url-pattern>/Debitcardaddmoney</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Sendmoneytouser</servlet-name>
+  	<url-pattern>/Sendmoneytouser</url-pattern>
+  </servlet-mapping>
+</web-app>
