@@ -1,5 +1,5 @@
-#Technology used 
-"""
+**Technology used 
+
 java
 apache tom-cat server
 sql
@@ -8,13 +8,13 @@ Html, CSS
 JavaScript
 jQuery
 Bootstrap framework
-"""
 
-#Functionalities
-"""
+
+**Functionalities
+
 Login
 Signup
 Add-money
 Send Money
 Receive Money
-"""
+
