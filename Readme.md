@@ -1,4 +1,4 @@
-**Technology used 
+**Technology used**
 
 java,
 apache tom-cat server,
@@ -10,7 +10,7 @@ jQuery,
 Bootstrap framework,
 
 
-**Functionalities
+**Functionalities**
 
 Login,
 Signup,
