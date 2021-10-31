@@ -48,6 +48,7 @@ public class LoginDao {
 				link.setGender(gender);
 				link.setWallet_balance(walletBalance);
 				link.setValid(true);
+				System.out.println("Welcome Piyush");
 				
 			}
 		}
