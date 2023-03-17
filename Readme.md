@@ -1,8 +1,8 @@
 **Technology used**
 
-java,
-apache tom-cat server,
-sql,
+Java,
+Apache tom-cat server,
+SQL,
 Microsoft sql server management studio,
 Html, CSS,
 JavaScript,
